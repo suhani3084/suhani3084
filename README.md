@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **suhani3084/suhani3084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
